@@ -19,3 +19,13 @@
 - **Archivos Excel:** Para cargar datos de entrenamiento, se necesitan archivos Excel que contengan información sobre enfermedades y síntomas asociados.
 
 <img src="https://github.com/SergioMSR09/Modelo-Predictivo-De-Enfermedades-Proyecto-Final-/assets/158234022/13bedadd-b3e4-4b07-bd03-951f3af17799" alt="desktop_6cc69e83-3e1b-4d1f-abf7-1355e117da0b" style="width:40%;" />
+
+![cooltext457681608170124](https://github.com/SergioMSR09/Modelo-Predictivo-De-Enfermedades-Proyecto-Final-/assets/158234022/91732737-c680-41e7-b844-21a8d41c7801)
+
+- ***app.py:*** Archivo principal que contiene el código de la aplicación.
+- ***README.md:*** Archivo de documentación que proporciona una descripción general del proyecto, instrucciones de instalación y uso, y otros detalles relevantes.
+- ***Archivos adicionales:*** Pueden incluir datos de entrenamiento en formato Excel, imágenes, iconos u otros recursos necesarios para la aplicación.
+
+<img src="https://github.com/SergioMSR09/Modelo-Predictivo-De-Enfermedades-Proyecto-Final-/assets/158234022/a245a371-a2ef-40de-881c-e181818533e7" alt="Estructura-de-un-proyecto" style="width:40%;" />
+
+![cooltext457681749171519](https://github.com/SergioMSR09/Modelo-Predictivo-De-Enfermedades-Proyecto-Final-/assets/158234022/25003ea3-4de1-47cf-af94-be518d935b1c)
